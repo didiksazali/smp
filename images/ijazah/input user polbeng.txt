@@ -1,0 +1,63 @@
+INSERT INTO user VALUES 
+('','1011097401','','fcea920f7412b5da7be0cf42b8c93759','Zulkifli, S.Si, M.Sc.','L','','','Lektor','','D4 Teknik Listrik','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','1018086901','','fcea920f7412b5da7be0cf42b8c93759','ZAINAL ABIDIN, S.T, M.T','L','','','Lektor','','D4 Teknik Listrik','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','1029018402','','fcea920f7412b5da7be0cf42b8c93759','Jefri Lianda, M.T, S.ST','L','','','Lektor','','D4 Teknik Listrik','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','1030076501','','fcea920f7412b5da7be0cf42b8c93759','ADAM, S.T, M.T','L','','','Lektor','','D4 Teknik Listrik','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','0030018406','','fcea920f7412b5da7be0cf42b8c93759','FIRMAN ALHAFFIS, S.T, M.T','L','','','Asisten Ahli','','D3 Teknik Mesin','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','1010087101','','fcea920f7412b5da7be0cf42b8c93759','IBNU HAJAR, S.T, M.T','L','','','Lektor','','D3 Teknik Mesin','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','1012048401','','fcea920f7412b5da7be0cf42b8c93759','IZAN, M.Pd.I, M.Eng','L','','','Asisten Ahli','','D3 Teknik Mesin','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','1013057201','','fcea920f7412b5da7be0cf42b8c93759','SUHARDIMAN, S.T, M.T','L','','','Lektor','','D3 Teknik Mesin','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','1014107301','','fcea920f7412b5da7be0cf42b8c93759','SYAHRIZAL, S.T, M.T','L','','','Lektor','','D3 Teknik Mesin','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','1019127402','','fcea920f7412b5da7be0cf42b8c93759','SUNARTO, S.Pd, M.T','L','','','Lektor','','D3 Teknik Mesin','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n')
+
+
+
+INSERT INTO user VALUES 
+('','1030017802','','fcea920f7412b5da7be0cf42b8c93759','BAMBANG DWI HARIPRIADI, S.T, M.T, A.Md','L','','','Asisten Ahli','','D3 Teknik Mesin','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','0019118901','','fcea920f7412b5da7be0cf42b8c93759','ALFAUZAN YENDRA, S.Si, M.Sc.','L','','','Asisten Ahli','','D4 Teknik Mesin Produksi dan Perawatan','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','0024119001','','fcea920f7412b5da7be0cf42b8c93759','ABDUL HARIS SALAM, S.Si, M.T','L','','','Asisten Ahli','','D4 Teknik Mesin Produksi dan Perawatan','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','1008017401','','fcea920f7412b5da7be0cf42b8c93759','BENI SYAHPUTRA, S.Si, M.Sc.','P','','','Lektor','','D4 Teknik Mesin Produksi dan Perawatan','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','1017017602','','fcea920f7412b5da7be0cf42b8c93759','Alfansuri, S.Si, M.Sc.','L','','','Lektor','','D4 Teknik Mesin Produksi dan Perawatan','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','1017037301','','fcea920f7412b5da7be0cf42b8c93759','ERWEN MARTIANIS, S.T, M.T','L','','','Lektor','','D4 Teknik Mesin Produksi dan Perawatan','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','1025127301','','fcea920f7412b5da7be0cf42b8c93759','Razali, S.T, M.T','L','','','Lektor','','D4 Teknik Mesin Produksi dan Perawatan','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','1027037501','','fcea920f7412b5da7be0cf42b8c93759','Imran, S.Pd, M.T','L','','','Lektor','','D4 Teknik Mesin Produksi dan Perawatan','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','0013078504','','fcea920f7412b5da7be0cf42b8c93759','JULI ARDITA PRIBADI. R, S.T, M.Eng','L','','','Asisten Ahli','','D4 Teknik Perancangan Jalan dan Jembatan','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','0024078703','','fcea920f7412b5da7be0cf42b8c93759','LIZAR, S.T, M.T','L','','','','','D4 Teknik Perancangan Jalan dan Jembatan','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n')
+
+
+
+
+INSERT INTO user VALUES 
+('','0029108404','','fcea920f7412b5da7be0cf42b8c93759','HENDRA SAPUTRA, S.T, M.Sc.','L','','','Asisten Ahli','','D4 Teknik Perancangan Jalan dan Jembatan','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','1012018401','','fcea920f7412b5da7be0cf42b8c93759','ALAMSYAH, S.T, M.Eng','L','','','Lektor','','D4 Teknik Perancangan Jalan dan Jembatan','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','1015087501','','fcea920f7412b5da7be0cf42b8c93759','JUNAIDI, S.T, M.T','L','','','Asisten Ahli','','D4 Teknik Perancangan Jalan dan Jembatan','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','1016028001','','fcea920f7412b5da7be0cf42b8c93759','Oni Febriani, S.T, M.T','P','','','Lektor','','D4 Teknik Perancangan Jalan dan Jembatan','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','1018088001','','fcea920f7412b5da7be0cf42b8c93759','Guswandi, S.T, M.T','L','','','Asisten Ahli','','D4 Teknik Perancangan Jalan dan Jembatan','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','1031037701','','fcea920f7412b5da7be0cf42b8c93759','NOERDIN BASIR, S.T, M.T','L','','','Lektor','','D4 Teknik Perancangan Jalan dan Jembatan','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','0019038404','','fcea920f7412b5da7be0cf42b8c93759','ISMAIL MARZUKI, S.T, M.T','L','','','','','D3 Teknik Perkapalan','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','0012028804','','fcea920f7412b5da7be0cf42b8c93759','MUHAMMAD IKHSAN, S.T, M.T','L','','','Asisten Ahli','','D3 Teknik Perkapalan','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','0029038602','','fcea920f7412b5da7be0cf42b8c93759','BUDHI SANTOSO, S.T, M.T','L','','','Lektor','','D3 Teknik Perkapalan','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','0031078801','','fcea920f7412b5da7be0cf42b8c93759','EGI YULIORA, S.Si, M.Si','P','','','Asisten Ahli','','D3 Teknik Perkapalan','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n')
+
+
+
+
+INSERT INTO user VALUES 
+('','1005117801','','fcea920f7412b5da7be0cf42b8c93759','PARDI, S.T, M.T','L','','','Lektor','','D3 Teknik Perkapalan','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','1009047503','','fcea920f7412b5da7be0cf42b8c93759','AFRIANTONI, S.T, M.T','L','','','Lektor','','D3 Teknik Perkapalan','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','0014038901','','fcea920f7412b5da7be0cf42b8c93759','MARHADI SASTRA, S.T, M.Sc.','L','','','Lektor','','D3 Teknik Sipil','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','0025108603','','fcea920f7412b5da7be0cf42b8c93759','INDRIYANI PULUHULAWA, S.T, M.Eng','P','','','Asisten Ahli','','D3 Teknik Sipil','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','0028019401','','fcea920f7412b5da7be0cf42b8c93759','ZEV AL JAUHARI, S.T, M.T','L','','','','','D3 Teknik Sipil','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','1004038303','','fcea920f7412b5da7be0cf42b8c93759','EFAN TIFANI, S.T, M.Eng','L','','','Lektor','','D3 Teknik Sipil','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','1009078502','','fcea920f7412b5da7be0cf42b8c93759','DEDI ENDA, S.T, M.T','L','','','Asisten Ahli','','D3 Teknik Sipil','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','1017067901','','fcea920f7412b5da7be0cf42b8c93759','ARMADA, S.T, M.T','L','','','Lektor','','D3 Teknik Sipil','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','1019028502','','fcea920f7412b5da7be0cf42b8c93759','Faisal Ananda, S.T, M.T','L','','','Lektor','','D3 Teknik Sipil','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n'),
+('','1024027702','','fcea920f7412b5da7be0cf42b8c93759','GUNAWAN, S.T, M.T','L','','','Lektor','','D3 Teknik Sipil','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n')
+('','0013078207','','fcea920f7412b5da7be0cf42b8c93759','JAMAL, S.T, M.T','L','','','Lektor','','D4 Teknologi Rekayasa Arsitektur Perkapalan','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n')
+('','0018068606','','fcea920f7412b5da7be0cf42b8c93759','SISWANDI. B, S.T, M.T','L','','','Asisten Ahli','','D4 Teknologi Rekayasa Arsitektur Perkapalan','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n')
+('','1012068303','','fcea920f7412b5da7be0cf42b8c93759','EDY HARYANTO, S.T, M.T','L','','','Lektor','','D4 Teknologi Rekayasa Arsitektur Perkapalan','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n')
+('','1015088201','','fcea920f7412b5da7be0cf42b8c93759','MUHAMMAD HELMI, S.T, M.T','L','','','Lektor','','D4 Teknologi Rekayasa Arsitektur Perkapalan','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n')
+('','1020048402','','fcea920f7412b5da7be0cf42b8c93759','NURHASANAH, S.T, M.T','P','','','Lektor','','D4 Teknologi Rekayasa Arsitektur Perkapalan','Politeknik Negeri Bengkalis','','dosen','profile.jpg','n')
+
+
+
